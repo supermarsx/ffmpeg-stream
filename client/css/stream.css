@@ -1,0 +1,11 @@
+html, body {
+  background-color: #111;
+  text-align: center;
+}
+
+canvas {
+  max-height: 100%;
+  max-width: 100%;
+  width: auto;
+  height: auto;
+}
