@@ -14,3 +14,6 @@ This stream requires jsmpeg, ffmpeg and express.
 4. Install `ffmpeg` and add to `PATH` if using Windows
 5. Enter  `server` folder and start ffmpeg streaming `node .\stream-server.js` and web server `node .\stream-client.js`.
 6. Access the stream at `http://localhost:8080` if you're using the default configuration.
+
+## License
+Distributed under MIT License. See `license.md` for more information.
