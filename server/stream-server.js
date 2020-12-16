@@ -9,7 +9,7 @@ var config = {
   port: 5000
 };
 
-Stream = require('node-rtsp-stream');
+Stream = require('./rtsp-stream-fix');
 stream = new Stream({
   name: config.name, // Stream name
   streamUrl: config.url,
