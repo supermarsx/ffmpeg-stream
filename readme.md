@@ -2,7 +2,7 @@
 
 ![Stream example](https://github.com/eduardomota/ffmpeg-stream/raw/master/assets/stream.png)
 
-Forward a RTSP stream using node and output it to a websocket with a overlay filter and top left logo,  uses jsmpeg for decoding.
+Forward a RTSP stream using node and output it to a websocket with an overlay filter and top left logo,  uses jsmpeg for decoding.
 
 This stream requires jsmpeg, ffmpeg and express.
 
